@@ -109,5 +109,4 @@ exportDayData()
     #     win32gui.PostMessage(i, win32con.WM_LBUTTONUP, win32con.MK_LBUTTON, 0)
     # print len
     # count+=1
-    # print('['+str(count)+']'+buffer+'-'+clsname)
 
